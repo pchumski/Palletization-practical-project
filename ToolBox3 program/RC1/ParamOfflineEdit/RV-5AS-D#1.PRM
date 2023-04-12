@@ -1,0 +1,10 @@
+RV-5AS-DNARC parameter system V1.0;
+RLNG=Ud,3;
+HANDTYPE=Us,"S900","D902","D904","D906","","","","";
+HNDHOLD1=Ud,0,1;
+MEORGNO=Md,-1,-1,-1,-1,-1,-1,-1,-1;
+FSIFVER=Us,"";
+PMMGTFLG=My,0;
+RETLMT=Uf,0,0,0,%r0,%r0,%r0,0,0;
+MEXTLNO=Ui,3;
+MEXTL=Uf,0,0,0,%r0,%r0,%r0;

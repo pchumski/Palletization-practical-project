@@ -1,0 +1,128 @@
+2022/07/20 13:48:35: Interference check start.
+2022/07/20 13:48:46: Interference check stop.
+2022/07/20 13:48:47: Interference check start.
+2022/07/20 13:48:48: Interference check stop.
+2022:07:22 09:26:58	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:5)	:RC1	:PC	:5 Def PlT 1, p0, pA, pB,,length, width, sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 Def PlT 2, p02, pA2, pB2,,length2, width2, sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:24)	:RC1	:PC	:24 If M1 <= (length*width) Then GoTo *PALLET	:Syntax error
+2022:07:22 09:28:12	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:5)	:RC1	:PC	:5 Def PlT 1, p0, pA, pB,,length, width, sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 Def PlT 2, p02, pA2, pB2,,length2, width2, sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:24)	:RC1	:PC	:24 temp = length*width	:Syntax error
+2022:07:22 09:29:56	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:5)	:RC1	:PC	:5 Def PlT 1, p0, pA, pB, ,length, width, sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 Def PlT 2, p02, pA2, pB2, ,length2, width2, sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:24)	:RC1	:PC	:24 temp = length*width	:Syntax error
+2022:07:22 09:31:25	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6001)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6004)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1, p0, pA, pB, ,length, width, sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2, p02, pA2, pB2, ,length2, width2, sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length*width	:Syntax error
+2022:07:22 09:44:05	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6001)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6004)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1,p0,pA,pB,,length,width,sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2,p02,pA2,pB2,,length2,width2,sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length*width	:Syntax error
+2022:07:22 09:44:50	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6001)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6004)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1,p0,pA,pB,,length,width,sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2,p02,pA2,pB2,,length2,width2,sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length*width	:Syntax error
+2022:07:22 09:45:42	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6001)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6004)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1,p0,pA,pB, ,length,width,sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2,p02,pA2,pB2, ,length2,width2,sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length * width	:Syntax error
+2022:07:22 09:46:39	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6002)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6005)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1,p0,pA,pB, ,length,width,sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2,p02,pA2,pB2, ,length2,width2,sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length * width	:Syntax error
+2022:07:22 09:48:07	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:6)	:RC1	:PC	:6 width = M_DIn(6002)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:9)	:RC1	:PC	:9 width2 = M_DIn(6005)	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:12)	:RC1	:PC	:12 Def PlT 1, p0, pA, pB, , length, width, sort	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:13)	:RC1	:PC	:13 Def PlT 2, p02, pA2, pB2, , length2, width2, sort2	:Syntax error
+	:Program	:PALLETPALLET.prg(Command:31)	:RC1	:PC	:31 temp = length * width	:Syntax error
+2022:07:22 09:49:37	:Syntax check Error
+	:Program	:PALLETPALLET.prg(Command:33)	:RC1	:PC	:33If M1 <= temp Then GoTo *PALLET	:Jump destination does not exist
+2022:07:22 11:35:38	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layer_temp = 0;	:Syntax error
+	:Program	:PALLETPALLET(Command:36)	:RC1	:Robot	:36 If M1 > temp & layer_temp < layer Then layer_temp = layer_temp + 1	:Syntax error
+2022:07:22 11:36:01	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layertemp = 0;	:Syntax error
+	:Program	:PALLETPALLET(Command:36)	:RC1	:Robot	:36 If M1 > temp & layertemp < layer Then layertemp = layertemp + 1	:Syntax error
+2022:07:22 11:37:07	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layertemp = 0;	:Syntax error
+	:Program	:PALLETPALLET(Command:37)	:RC1	:Robot	:37 If M1 > temp & layertemp < layer Then 	:Syntax error
+2022:07:22 11:37:19	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layertemp = 0;	:Syntax error
+	:Program	:PALLETPALLET(Command:37)	:RC1	:Robot	:37 If M1 > temp && layertemp < layer Then 	:Syntax error
+2022:07:22 11:37:59	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layertemp% = 0;	:Syntax error
+2022:07:22 11:38:27	:Syntax check Error
+	:Program	:PALLETPALLET(Command:17)	:RC1	:Robot	:17 layertemp% = 1;	:Syntax error
+2022:07:22 11:38:44	:Syntax check Error
+	:Program	:PALLETPALLET(Command:16)	:RC1	:Robot	:16 layertemp% = 0;	:Syntax error
+2022:07:22 14:30:55	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 get_box = Plt 1, box_nr%	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:24)	:RC1	:PC	:24 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:25)	:RC1	:PC	:25 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:29)	:RC1	:PC	:29 Mov get_box, -50	:Syntax error
+2022:07:22 14:31:41	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 get_box = Plt 1, box_nr%	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:24)	:RC1	:PC	:24 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:25)	:RC1	:PC	:25 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:29)	:RC1	:PC	:29 Mov get_box, -50	:Syntax error
+2022:07:22 14:33:46	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 get_box = Plt 1, box_nr	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:24)	:RC1	:PC	:24 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:25)	:RC1	:PC	:25 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:29)	:RC1	:PC	:29 Mov get_box, -50	:Syntax error
+2022:07:22 14:34:06	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 get_box = Plt 1, box_nr	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:24)	:RC1	:PC	:24 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:25)	:RC1	:PC	:25 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:29)	:RC1	:PC	:29 Mov get_box, -50	:Syntax error
+2022:07:22 14:35:07	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 get_box = Plt 1, box_nr	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:24)	:RC1	:PC	:24 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:25)	:RC1	:PC	:25 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:29)	:RC1	:PC	:29 Mov get_box, -50	:Syntax error
+2022:07:22 14:36:58	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:19)	:RC1	:PC	:19 get_box = Plt 1, box_nr	:Syntax error
+	:Program	:PALLETPICK.prg(Command:20)	:RC1	:PC	:20 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:21)	:RC1	:PC	:21 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:26)	:RC1	:PC	:26 Mov get_box, -50	:Syntax error
+2022:07:22 14:37:43	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:19)	:RC1	:PC	:19 get_box = Plt 1, 1	:Syntax error
+	:Program	:PALLETPICK.prg(Command:20)	:RC1	:PC	:20 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:21)	:RC1	:PC	:21 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:26)	:RC1	:PC	:26 Mov get_box, -50	:Syntax error
+2022:07:22 14:41:18	:Syntax check Error
+	:Program	:PALLETPICK.prg(Command:20)	:RC1	:PC	:20 get_box = Plt 1, box_nr	:Syntax error
+	:Program	:PALLETPICK.prg(Command:21)	:RC1	:PC	:21 get_box.Z = pallet_start.Z + layer*layer_width - layer_width	:Syntax error
+	:Program	:PALLETPICK.prg(Command:22)	:RC1	:PC	:22 Mov get_box, -50	:Syntax error
+	:Program	:PALLETPICK.prg(Command:23)	:RC1	:PC	:23 Mvs get_box	:Syntax error
+	:Program	:PALLETPICK.prg(Command:27)	:RC1	:PC	:27 Mov get_box, -50	:Syntax error
+2022:07:25 08:42:33	:Syntax check Error
+	:Program	:PALLETPICK(Command:14)	:RC1	:Robot	:14If curr_layer > 0 Then	:IF ENDIF statements unmatch
+2022:07:25 09:22:06	:Syntax check Error
+	:Program	:PALLETPICK(Command:32)	:RC1	:Robot	:32    If curr_layer% == 1 Then	:Syntax error
+2022:07:27 08:21:46	:Syntax check Error
+	:Program	:MAINPROJECT(Command:3)	:RC1	:Robot	:3 Mov homepos	:Syntax error
+	:Program	:MAINPROJECT(Command:21)	:RC1	:Robot	:21    Mov homepos	:Syntax error
+	:Program	:MAINPROJECT(Command:30)	:RC1	:Robot	:30    Mov homepos	:Syntax error

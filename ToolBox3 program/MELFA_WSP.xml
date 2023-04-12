@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workspace>
+	<Workspace_Title>projekt</Workspace_Title>
+	<Workspace_Vertion>1.9.1</Workspace_Vertion>
+	<Workspace_Date>2022/07/19 09:31:54</Workspace_Date>
+	<Project>RC1</Project>
+	<Display3D>
+		<RobotModelType>0</RobotModelType>
+	</Display3D>
+	<LastLayoutSelect>Layout</LastLayoutSelect>
+	<ScreenRect>
+		<Screen160>
+			<AdditionalInfo/>
+			<Left>1</Left>
+			<Top>19</Top>
+			<Right>932</Right>
+			<Bottom>500</Bottom>
+		</Screen160>
+	</ScreenRect>
+</Workspace>
